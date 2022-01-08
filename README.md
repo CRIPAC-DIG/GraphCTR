@@ -1,12 +1,12 @@
 # Graph-based CTR prediction
 This is a repository designed for graph-based CTR prediction methods, it includes our graph-based CTR prediction methods:
-  - Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction [paper](https://arxiv.org/abs/1910.05552)
-  - GraphFM: Graph Factorization Machines for Feature Interaction Modeling [paper](https://arxiv.org/abs/2105.11866)
+  - **Fi-GNN**: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction [paper](https://arxiv.org/abs/1910.05552)
+  - **GraphFM**: Graph Factorization Machines for Feature Interaction Modeling [paper](https://arxiv.org/abs/2105.11866)
 
 and some other representative baselines:
-  - HoAFM: A High-order Attentive Factorization Machine for CTR Prediction [paper](https://www.sciencedirect.com/science/article/pii/S0306457319302389)
-  - AutoInt: AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks [paper](https://arxiv.org/abs/1810.11921)
-  - Interpretable Click-Through Rate Prediction through Hierarchical Attention [paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371785)
+  - **HoAFM**: A High-order Attentive Factorization Machine for CTR Prediction [paper](https://www.sciencedirect.com/science/article/pii/S0306457319302389)
+  - **AutoInt**: AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks [paper](https://arxiv.org/abs/1810.11921)
+  - **InterHAt**: Interpretable Click-Through Rate Prediction through Hierarchical Attention [paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371785)
   
 
 
