@@ -7,7 +7,16 @@ and some other representative baselines:
   - **HoAFM**: A High-order Attentive Factorization Machine for CTR Prediction [paper](https://www.sciencedirect.com/science/article/pii/S0306457319302389)
   - **AutoInt**: AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks [paper](https://arxiv.org/abs/1810.11921)
   - **InterHAt**: Interpretable Click-Through Rate Prediction through Hierarchical Attention [paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371785)
-  
+
+You can find the model files of the above methods in [code](./code/) for Criteo and Avazu datasets and [movielens/code](./movielens/code/) for MovieLens-1M dataset:
+```bash
+├── code                   
+│   ├── fignn.py
+│   ├── graphfm.py                
+│   ├── hoafm.py
+│   ├── autoint.py                   
+│   ├── interHAt.py            
+```
 
 
 ## Requirements: 
