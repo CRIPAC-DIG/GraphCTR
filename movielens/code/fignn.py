@@ -1,8 +1,6 @@
 '''
 Tensorflow implementation of Fi-GNN described in:
-Fi-GNN: Modeling Feature Interactions via Graph Neural Networks
-author: Zekun Li
-email: lizekunlee@gmail.com
+Fi-gnn: Modeling feature interactions via graph neural networks for ctr prediction
 '''
 
 import os

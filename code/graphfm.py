@@ -1,8 +1,6 @@
 '''
-Tensorflow implementation of AutoInt described in:
-AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks.
-author: Chence Shi
-email: chenceshi@pku.edu.cn
+Tensorflow implementation of GraphFM described in:
+GraphFM: Graph Factorization Machines for Feature Interaction Modeling
 '''
 
 import os

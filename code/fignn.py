@@ -1,8 +1,6 @@
 '''
-Tensorflow implementation of AutoInt described in:
-AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks.
-author: Chence Shi
-email: chenceshi@pku.edu.cn
+Tensorflow implementation of Fi-GNN described in:
+Fi-gnn: Modeling feature interactions via graph neural networks for ctr prediction
 '''
 
 import os

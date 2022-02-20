@@ -1,8 +1,6 @@
 '''
 Tensorflow implementation of GraphFM described in:
 GraphFM: Graph Factorization Machines for Feature Interaction Modeling
-author: Zekun Li
-email: lizekunlee@gmail.com
 '''
 
 
