@@ -98,19 +98,19 @@ avg_log_loss 0.44297631300399626
 ## Citation
 If you find this repo useful for your research, please consider citing the following paper:
 ```
+@article{li2021graphfm,
+  title={GraphFM: Graph Factorization Machines for Feature Interaction Modeling},
+  author={Li, Zekun and Wu, Shu and Cui, Zeyu and Zhang, Xiaoyu},
+  journal={arXiv preprint arXiv:2105.11866},
+  year={2021}
+}
+
 @inproceedings{li2019fi,
   title={Fi-gnn: Modeling feature interactions via graph neural networks for ctr prediction},
   author={Li, Zekun and Cui, Zeyu and Wu, Shu and Zhang, Xiaoyu and Wang, Liang},
   booktitle={Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
   pages={539--548},
   year={2019}
-}
-
-@article{li2021graphfm,
-  title={GraphFM: Graph Factorization Machines for Feature Interaction Modeling},
-  author={Li, Zekun and Wu, Shu and Cui, Zeyu and Zhang, Xiaoyu},
-  journal={arXiv preprint arXiv:2105.11866},
-  year={2021}
 }
 ```
 
