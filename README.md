@@ -1,5 +1,10 @@
 # Graph-based CTR prediction
-This is a repository designed for graph-based CTR prediction methods, it includes our graph-based CTR prediction methods:
+
+<img src="graphfm.png" alt="model" style="zoom: 50%;" />
+
+This is the code for the Paper: [GraphFM: Graph Factorization Machines for Feature Interaction Modeling](https://arxiv.org/abs/2105.11866v4).
+
+It is a repository designed for graph-based CTR prediction methods, which includes our graph-based CTR prediction methods:
   - **Fi-GNN**: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction [paper](https://arxiv.org/abs/1910.05552)
   - **GraphFM**: Graph Factorization Machines for Feature Interaction Modeling [paper](https://arxiv.org/abs/2105.11866)
 
@@ -17,12 +22,6 @@ You can find the model files of the above methods in [code](./code/) for Criteo 
 │   ├── autoint.py                   
 │   ├── interHAt.py            
 ```
-
-
-## Requirements: 
-* **Tensorflow 1.5.0**
-* Python 3.6
-* CUDA 9.0+ (For GPU)
 
 ## Usage
 Our code is based on [AutoInt](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/featureRec).
@@ -94,6 +93,11 @@ test_log_loss [0.44297631300399626]
 avg_auc 0.8088305055534442
 avg_log_loss 0.44297631300399626
 ```
+
+## Requirements: 
+* **Tensorflow 1.5.0**
+* Python 3.6
+* CUDA 9.0+ (For GPU)
 
 ## Citation
 If you find this repo useful for your research, please consider citing the following paper:
